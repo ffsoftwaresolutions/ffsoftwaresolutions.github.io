@@ -1,0 +1,15 @@
+{
+  "name": "FF Software Solutions LLC \u2014 Freelance Software Development",
+  "short_name": "",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0ea5e9",
+  "icons": [
+    {
+      "src": "assets/img/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "64x64"
+    }
+  ]
+}
